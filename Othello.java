@@ -29,6 +29,9 @@
  * @since 1/14/2019
  */
 
+ /*
+ @author Nishanth M S - implementing MiniMax algorithm as an AI
+ */
 import java.awt.Color;
 import java.awt.Font;
 import java.util.Scanner;
